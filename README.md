@@ -20,3 +20,8 @@ Este projeto foi desenvolvido acompanhando o tutorial abaixo:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/spotify-clone.git
+
+## Tela Final
+
+<h3>Tela Principal:</h3>
+  <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231525.png" alt="Tela Principal" width="1066px" height="568px"><br>
